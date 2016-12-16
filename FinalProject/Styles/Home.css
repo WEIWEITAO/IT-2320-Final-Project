@@ -1,0 +1,59 @@
+﻿body {width:520px;
+      font: 12px "Calibri";
+}
+
+.tologin {
+    display: inline;
+    width: 290px;
+    margin: 10px;
+    height: 80px;
+    
+}
+
+.createAccount {
+    display: inline;
+    width: 320px;
+    margin: 10px;
+    height: 150px;
+    
+}
+.leftLabel_1 {
+    margin: 10px;
+    width: 170px;
+    display: inline;
+    height: 80px;
+}
+
+.leftLabel_2 {
+    margin: 10px;
+    width: 140px;
+    display: inline;
+    height: 150px;
+}
+
+#footer {
+    margin: 10px;
+    text-align: left;
+}
+
+#content{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 10px;
+    
+}
+
+#header p{
+    margin: 10px;
+    font-style: italic;
+}
+
+h1{
+    font: bold 16px "Cambria";
+    
+}
+
+#seperator{
+    border: 0.5px solid lightblue;
+    margin: 10px;
+}
